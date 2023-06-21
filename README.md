@@ -40,3 +40,17 @@
    3. b = temp
 
 6. End
+
+# Example of input
+![image](https://github.com/benthen/divide-and-conquer/assets/111986781/874af583-45cd-4615-bb8f-fa22839eb383)
+
+# Example of outpupt
+![image](https://github.com/benthen/divide-and-conquer/assets/111986781/1923ce20-c4d4-4270-9157-6d71f0c5eb5c)
+
+# Analysis of Divide and Conquer Algorithm
+
+* The time complexity of the TSP algorithm using a divide and conquer approach depends on the number of cities (n) and can be analysed as follows:
+
+* The division step is done in a loop, iterating over n-1 cities. Hence, the time complexity is O(n).The conquer step recursively solves subproblems. For each subproblem, the algorithm considers (n-1) cities. The number of recursive calls in the conquer step can be represented by the factorial of (n-1), which is (n-1)!.The combination of solutions does not contribute significantly to the overall time complexity.Considering the above factors, the overall time complexity of the TSP algorithm using a divide and conquer approach is O(n * (n-1)!). As the number of cities increases, the time complexity grows exponentially due to the factorial term. Therefore, the algorithm becomes computationally expensive and inefficient for larger values of n.
+
+* It's important to note that there exist more efficient algorithms, such as dynamic programming (e.g., the Held-Karp algorithm), that can solve the TSP with better time complexities, such as O(n^2 * 2^n). However, the divide and conquer approach still provides a conceptual understanding of the problem and can be used as a starting point for exploring more advanced techniques.
