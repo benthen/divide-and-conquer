@@ -1,3 +1,10 @@
+# Table of content
+- [Pseudocode of Divide and Conquer Algorithm to solve Travelling Salesperson Problem](https://github.com/benthen/divide-and-conquer/tree/main#pseudocode-of-divide-and-conquer-algorithm-to-solve-travelling-salesperson-problem)
+- [Example of input](https://github.com/benthen/divide-and-conquer/tree/main#example-of-input)
+- [Example of output](https://github.com/benthen/divide-and-conquer/tree/main#example-of-output)
+- [Demo video](https://github.com/benthen/divide-and-conquer/tree/main#demo-video)
+- [Analysis of Divide and Conquer Algorithm](https://github.com/benthen/divide-and-conquer/tree/main#analysis-of-divide-and-conquer-algorithm)
+
 # Pseudocode of Divide and Conquer Algorithm to solve Travelling Salesperson Problem
 
 1. Start
@@ -44,8 +51,11 @@
 # Example of input
 ![image](https://github.com/benthen/divide-and-conquer/assets/111986781/874af583-45cd-4615-bb8f-fa22839eb383)
 
-# Example of outpupt
+# Example of output
 ![image](https://github.com/benthen/divide-and-conquer/assets/111986781/1923ce20-c4d4-4270-9157-6d71f0c5eb5c)
+
+# Demo video
+https://github.com/benthen/divide-and-conquer/assets/111986781/cf9dae00-f409-464b-84db-f97480009250
 
 # Analysis of Divide and Conquer Algorithm
 
